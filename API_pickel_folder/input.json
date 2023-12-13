@@ -1,0 +1,23 @@
+{
+    "feature_columns" : ["age",
+    "height",
+    "weight",
+    "aids",
+               "cirrhosis",
+               "hepatic_failure",
+               "immunosuppression",
+               "leukemia",
+               "lymphoma",
+               "solid_tumor_with_metastasis"],
+
+               
+    "features": [75.0,
+    -0.23675711586036677,
+    0.22912185494281107,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,0]
+}
