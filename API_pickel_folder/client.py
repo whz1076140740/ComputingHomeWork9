@@ -4,11 +4,11 @@ import requests
 import json
 
 # The endpoint URL
-url = 'http://localhost:8000/predict'
+url = 'http://127.0.0.1:8000/predict'
 
 # Example input data
 # Load input data from the JSON file
-with open('input_example.json', 'r') as file:
+with open('input.json', 'r') as file:
     data = json.load(file)
 
 # Send a POST request to the API
